@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Javier Johnson
 
- I'm a Technical Support Professional based in South Florida with active GSEC and GFACT certifications, building real-world skills through homelabs covering Help Desk simulations, Windows Server, Active Directory, M365, Entra ID, Intune, and Linux. My goal is to transition into IT Support and Help Desk roles, with long term ambitions in Systems Administration and Cybersecurity.
+ I'm a Technical Support Professional based in South Florida with active GSEC, GFACT and GCIH certifications, building real-world skills through homelabs covering Help Desk simulations, Windows Server, Active Directory, M365, Entra ID, Intune, and Linux. My goal is to transition into IT Support and Help Desk roles, with long term ambitions in Systems Administration and Cybersecurity.
 
 ## Certifications
 
